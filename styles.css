@@ -22,7 +22,7 @@ div span {
     text-transform: uppercase;
     color: #484848 /*#fff900 #ff6c00*/;
     animation-duration: 1s;
-    animation-timing-function: ease-in-out;
+    animation-timing-function: linear;
     /*animation-fill-mode: forwards;*/
     animation-iteration-count: infinite;
     animation-name: lighting;
